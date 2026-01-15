@@ -1,0 +1,1 @@
+# frality-app
